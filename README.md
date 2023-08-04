@@ -11,7 +11,7 @@ Add this library as a `compile` dependency. It will be called during compilation
 <dependency>
     <groupId>de.gofabian</groupId>
     <artifactId>model-variant-parent</artifactId>
-    <version>0.0.0</version>
+    <version>0.1.0</version>
     <scope>compile</scope>
 </dependency>
 ```
