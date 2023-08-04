@@ -1,0 +1,21 @@
+### Maven ###
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+pom.xml.versionsBackup
+README.md-E
+
+### IntelliJ IDEA ###
+#/.idea/encodings.xml
+/.idea/uiDesigner.xml
+#/.idea/modules.xml
+#/.idea/jarRepositories.xml
+#/.idea/compiler.xml
+/.idea/workspace.xml
+#/.idea/libraries/
+#*.iws
+#*.iml
+#*.ipr
+
+### Mac OS ###
+.DS_Store

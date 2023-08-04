@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="model-variant-generator" />
+        <module name="modelgen" />
+        <module name="model-variant-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="modelgen-integrationtest" target="17" />
+      <module name="modelgen-processor" target="17" />
+      <module name="modelgen-runtime" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
